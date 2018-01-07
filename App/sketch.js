@@ -1,6 +1,6 @@
 var CANVAS_WIDTH = 500;
 var CANVAS_HEIGHT = 350;
-var ADDRESS = "http://api.openweathermap.org/data/2.5/weather?q=";
+var ADDRESS = "https://api.openweathermap.org/data/2.5/weather?q=";
 var countrycode = "Waterloo";
 var input;
 var clientID = "&appid=271c502d334f976dd3912c330e9629fc";
