@@ -11,7 +11,7 @@ var windVector;
 var img;
 var id;
 var cloud;
-var iconURL = "http://openweathermap.org/img/w/"
+var iconURL = "https://openweathermap.org/img/w/"
 var imgCode;
 var d = new Date();
 var t;
